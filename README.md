@@ -1,2 +1,2 @@
-# WEB_practice
-responsive web / dark-mod
+# Practice
+HTML CSS Javascript
